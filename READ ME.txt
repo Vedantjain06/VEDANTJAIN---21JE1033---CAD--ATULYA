@@ -1,0 +1,19 @@
+Hey everyone
+This project is a motor controlled 4 wheel bot designed as a batmobile
+
+
+It can be used for various projects like line follower , light detection bot etc
+
+the front and back tire assembly is joined by axle in the
+project but can be replaced by motor during the actual demonstration
+
+
+front two wheels are textured black with 0.31m diametre each and back two are textured gloss black
+with same diametre but slighly more width
+ 
+The top view or the upper body part of the bot is left exposed and empty so that micprocessor,wires etc can be placed on it
+
+The weight of the body is kept equally distributed between both the tires to avoid bot from wobbling
+
+Thats all for this project
+thank you !!!
